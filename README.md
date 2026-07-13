@@ -1,0 +1,2 @@
+# Parkinson-s-Disease-Severity-Prediction-using-Machine-Learning
+This project explores the use of Machine Learning regression models to predict the severity of Parkinson's disease from voice measurements. Using the **Oxford Parkinson's Disease Telemonitoring Dataset**, different preprocessing techniques, feature selection methods and regression algorithms were evaluated to identify the best-performing model.
