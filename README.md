@@ -72,9 +72,9 @@ Models were evaluated using:
 ## Repository Structure
 
 ```
-├── trab_AAEB_18_2_22_final.ipynb
+├── trab_AAEB_18_2_22_final.html 
 ├── README.md
-└── data/
+└── parkinsons_updrs.data.csv
 ```
 
 ## Learning Outcomes
