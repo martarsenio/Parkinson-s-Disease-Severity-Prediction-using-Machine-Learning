@@ -72,7 +72,7 @@ Models were evaluated using:
 ## Repository Structure
 
 ```
-├── trab_AAEB_18_2_22_final.html 
+├── Parkinson_Prediction.pdf 
 ├── README.md
 └── parkinsons_updrs.data.csv
 ```
